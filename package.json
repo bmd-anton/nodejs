@@ -1,0 +1,24 @@
+{
+  "name": "worker-project",
+  "version": "1.0.0",
+  "description": "This is Worker Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmd-rony/nodejs.git"
+  },
+  "keywords": [
+    "worker",
+    "nodejs",
+    "bhinneka"
+  ],
+  "author": "Rony Setyawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmd-rony/nodejs/issues"
+  },
+  "homepage": "https://github.com/bmd-rony/nodejs#readme"
+}
